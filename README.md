@@ -21,3 +21,8 @@ There a re alot of features we can add The following features can be inculded if
 14. handle responsivness of different devices / also handle landscape mode
 15. Add useful comments
 16. And there is much more i can do but it depends on time, in technical interivew we can discuss this detail
+
+
+in technical interview we can discuss on more aspects of the React native technology because this is very simple app, I can spent days on this app to make it more perfect but I delivered an MVP.
+
+Lets connect in tech interview for more.
